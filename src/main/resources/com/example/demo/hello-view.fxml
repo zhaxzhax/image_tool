@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import org.kordamp.bootstrapfx.scene.layout.Panel?>
 
-<Panel>
+<!--<Panel>-->
 <VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
       fx:controller="com.example.demo.HelloController">
 
@@ -42,4 +42,4 @@
         <Button styleClass="btn-primary" text="Download" fx:id="downloadButton" onAction="#handleDownloadFile" />
     </VBox>
 </VBox>
-</Panel>
+<!--</Panel>-->
